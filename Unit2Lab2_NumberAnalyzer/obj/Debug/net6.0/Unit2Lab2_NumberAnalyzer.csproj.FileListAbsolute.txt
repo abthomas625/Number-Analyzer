@@ -1,0 +1,15 @@
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\bin\Debug\net6.0\Unit2Lab2_NumberAnalyzer.exe
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\bin\Debug\net6.0\Unit2Lab2_NumberAnalyzer.deps.json
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\bin\Debug\net6.0\Unit2Lab2_NumberAnalyzer.runtimeconfig.json
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\bin\Debug\net6.0\Unit2Lab2_NumberAnalyzer.dll
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\bin\Debug\net6.0\Unit2Lab2_NumberAnalyzer.pdb
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.csproj.AssemblyReference.cache
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.AssemblyInfoInputs.cache
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.AssemblyInfo.cs
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.csproj.CoreCompileInputs.cache
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.dll
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\refint\Unit2Lab2_NumberAnalyzer.dll
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.pdb
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\Unit2Lab2_NumberAnalyzer.genruntimeconfig.cache
+C:\Users\Abilena\source\repos\Unit2Lab2_NumberAnalyzer\Unit2Lab2_NumberAnalyzer\obj\Debug\net6.0\ref\Unit2Lab2_NumberAnalyzer.dll
